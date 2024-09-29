@@ -7,7 +7,7 @@ import java.net.URL;
 
 public class Rechner {
     private static final String API_URL = "https://api.apilayer.com/exchangerates_data/latest";
-    private String apiKey = "1XA50qRlnMc3CCBbdbPVq3glzzQxQqS2";
+    private String apiKey = "1XA50qRlnMc3CCBbdbPVq3glzzQqS2";
 
 
     // Methode zur Umrechnung von Währungen
